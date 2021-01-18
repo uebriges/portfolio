@@ -17,7 +17,13 @@
   </a>
 </p>
 
-test Image-heavy photography portfolio with colorful accents & customizable pages. Includes adaptive image grids powered by CSS grid and automatic image integration into projects. Using the Gatsby Theme [`@lekoarts/gatsby-theme-jodie`](https://github.com/LekoArts/gatsby-themes/tree/master/themes/gatsby-theme-jodie).
+This is Patricks portfolio site.
+
+What can you find here?
+
+- A little bit about me
+- Projects
+- Maybe some addtional stuff later on
 
 [**Demo Website**](https://jodie.lekoarts.de)
 
